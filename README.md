@@ -7,3 +7,6 @@ As a final project, we were to write a 10-page report in which we present a spec
 "PredictingTitanicSurvival.ipynb" is the notebook which you can run yourself, and which uses "test.csv" and "train.csv" as input.
 
 "PredictingTitanicSurvivalNotebookPDF.pdf" is simply a PDF of the notebook, and "PredictingTitanicSurvivalReport.pdf" is the final report I handed in for the course, which does not showcase any code but is more theoretically detailed, containing descriptions of the algorithms along with references.
+
+
+![ResultsDEMO](https://user-images.githubusercontent.com/30833034/126154238-7c373daa-4c5a-4ecb-8b5c-6b47be90578f.png)
