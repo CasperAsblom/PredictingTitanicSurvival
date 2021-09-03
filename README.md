@@ -11,11 +11,11 @@ All algorithms were tested on the given dataset, which was already split into ap
 
 ## Screenshots
 
-Average accuracy error bars:
+Average accuracy error bars:  
 ![ResultsDEMO](https://user-images.githubusercontent.com/30833034/126154238-7c373daa-4c5a-4ecb-8b5c-6b47be90578f.png)
-Precision, recall, and F-score:
+Precision, recall, and F-score:  
 ![PrecisionRecallF-score](https://user-images.githubusercontent.com/30833034/132021535-661a48fb-2747-4aad-a8c9-de288b68d862.png)
-Random Forest confusion matrix:
+Random Forest confusion matrix:  
 ![RandomForestConfusionMatrix](https://user-images.githubusercontent.com/30833034/132021540-c39c85b6-0b4b-44ba-a061-264daf2b602d.png)
 
 ## Files
