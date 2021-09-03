@@ -1,7 +1,7 @@
 # PredictingTitanicSurvival
 
 ## Introduction
-In this project, I implement and evaluate five machine learning algorithms (Random Forest, kNN, Stochastic Gradient Descent, Logistic Regression, and Support Vector Machines), and compare their performance in the task of predicting survival on the Titanic. I used data from the Kaggle competition "Titanic - Machine Learning from Disaster".
+In this project, I implement and evaluate five machine learning algorithms (Random Forest, kNN, Stochastic Gradient Descent, Logistic Regression, and Support Vector Machines), and compare their performance in the task of predicting survival on the Titanic. I used data from the Kaggle competition [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic).
 
 ## Evaluation
 
